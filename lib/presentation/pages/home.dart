@@ -126,9 +126,9 @@ class _HomeState extends State<Home> {
                           child: ElevatedButton(
                             onPressed: () {},
                             style: ElevatedButton.styleFrom(
-                              backgroundColor: Colors.white,
+                              backgroundColor: Colors.deepPurple,
                             ),
-                            child: Text('Lihat', style: mediumblueTextStyle,),
+                            child: Text('Lihat', style: TextStyle(color: Colors.white),),
                           ),
                         ),
                       ],
