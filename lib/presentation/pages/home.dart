@@ -102,7 +102,7 @@ class _HomeState extends State<Home> {
                                   AssetImage('assets/images/Pria.jpeg'),
                             ),
                             const SizedBox(
-                              width: 15,
+                              width: 20,
                             ),
                             Column(
                               mainAxisAlignment: MainAxisAlignment.start,
@@ -126,7 +126,7 @@ class _HomeState extends State<Home> {
                           child: ElevatedButton(
                             onPressed: () {},
                             style: ElevatedButton.styleFrom(
-                              backgroundColor: Colors.deepPurple,
+                              backgroundColor: Colors.white,
                             ),
                             child: Text('Lihat', style: mediumblueTextStyle,),
                           ),
