@@ -119,12 +119,6 @@ class _HomeState extends State<Home> {
                           ],
                         ),
                         const SizedBox(
-                          height: 22,
-                        ),
-                        const LinearProgressIndicator(
-                          value: 0.5,
-                        ),
-                        const SizedBox(
                           height: 18,
                         ),
                         Align(
@@ -181,7 +175,7 @@ class _HomeState extends State<Home> {
                                 ],
                               ),
                               const SizedBox(width: 12),
-                              Image.asset('assets/images/ibu-hamil.jpg', width: 86,),
+                              Image.asset('assets/images/imunisasi.jpg', width: 86,),
                             ],
                           ),
                         ),
@@ -220,7 +214,7 @@ class _HomeState extends State<Home> {
                                 ],
                               ),
                               const SizedBox(width: 12),
-                              Image.asset('assets/images/ibu-hamil.jpg', width: 86,),
+                              Image.asset('assets/images/timbang.jpg', width: 86,),
                             ],
                           ),
                         ),
