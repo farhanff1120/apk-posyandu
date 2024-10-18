@@ -85,7 +85,7 @@ class _HomeState extends State<Home> {
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
                 Container(
-                  height: 200,
+                  height: 160,
                   width: 355,
                   decoration: BoxDecoration(
                     color: const Color(0xff1e3883),
